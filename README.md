@@ -1,1 +1,1 @@
-##Deploy Link=https: [Project Link](//amitkumar169.github.io/Flipkart_Clone/)
+##Deploy Link=https: [FlipKart Clone](//amitkumar169.github.io/Flipkart_Clone/)
